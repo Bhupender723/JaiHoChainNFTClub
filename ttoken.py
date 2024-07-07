@@ -28,7 +28,7 @@ logger = logging.getLogger(__name__)
 
 w3 = Web3(Web3.HTTPProvider('https://testnet-rpc.jaihoscan.com/'))
 sender_address = '0xfc3e5C537bC66D283E8648A109d75F27b1DEc1E4'
-sender_private_key = 'e3adf91a88aff2b588faa388502da6292190cc58500b6423fb31aa2c1239a658'
+sender_private_key = ''
 token_contract_address = '0x5A89F7e45D659695E98148aF069B24c529DBc4fC'
 nft_contract_address = '0x18605d4c483AA343CAF971E8462213b1ed302bce'
 token_symbol = "JCT"
